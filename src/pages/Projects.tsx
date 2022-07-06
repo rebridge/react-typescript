@@ -11,8 +11,13 @@ export class Projects extends Component {
                     <p className='lead'>These projects are hosted on my personal Github page</p>
                     <Project
                         link="https://github.com/rebridge/react-personal"
-                        name="rebridge.net"
+                        name="rebridge.net - Javascipt/React/Bootstrap"
                         desc="This repo holds the source code for this webpage."
+                    />
+                    <Project
+                        link="https://github.com/rebridge/react-typescript"
+                        name="rebridge.net - Typescript/React/Bootstrap"
+                        desc="This repo holds the source code for this webpage using Typescript and React."
                     />
                     <Project
                         link="https://github.com/rebridge/spotify_project"
